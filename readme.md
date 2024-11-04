@@ -219,16 +219,14 @@ Video Demo:
 .
 # Challenges and Learnings
 ## Challenges
-Discuss any significant challenges you faced while trying to solve the issues in the game.
-Discuss any optimization methods you implemented to make the harvesting faster.
+1. The challenges that i face when playing the game is that, it was hard to get entities and it was hard to grow the crops at a speed rate so i had to wait for the crops to grow. When wating for the crops to harvest the laptop was getting heated so, it was one of the challenges.
+
 ## Learnings
-Note down what different algorithms and methods of programming you learnt (E.g: Given a number n, I learnt
-an algorithm that makes the drone travel each tile one by one efficiently given it’s position)
+1. The things that i learned from the game is that i was able to get to learn about python code in a fun ways. Like i can learn codes without getting bored .
+2. Also i learned some new codes for the first time, like codes that i havn't seen.  
 ## References
 List any resources, articles, or libraries you used or referenced while working on this project.
-1. [Resource 1 Title](URL)
-2. [Resource 2 Title](URL)
-3.
+1. youtube
 
 
 
